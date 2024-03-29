@@ -25,6 +25,9 @@
 /test/labels/*
 /test/masks/*
 
+/tmp/labels/*
+/tmp/masks/*
+
 /runs/segment/train/*
 
 /runsFirstColab
