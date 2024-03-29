@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# GitHub Copilot persisted chat sessions
+/copilot/chatSessions
+# macOS specific files
+.DS_Store
+# IntelliJ IDEA specific files
+.idea/
+# Virtual env
+.venv/
+
+/data/images/train/*
+/data/images/val/*
+
+/data/labels/train/*
+/data/labels/val/*
+
+/test/images/*
+/test/labels/*
+/test/masks/*
+
+/runs/segment/train/*
+
+/runsFirstColab
+/runsLocal

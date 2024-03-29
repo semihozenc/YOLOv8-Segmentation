@@ -1,0 +1,6 @@
+path: /Users/semihozenc/PycharmProjects/scientificProject/data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['brain_tumor']
